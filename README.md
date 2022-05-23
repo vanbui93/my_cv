@@ -1,1 +1,1 @@
-[# my_cv](https://vanbui93.github.io/my_cv/)
+Link CV: [https://vanbui93.github.io/my_cv/](https://vanbui93.github.io/my_cv/)
