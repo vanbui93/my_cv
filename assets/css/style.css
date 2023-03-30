@@ -290,6 +290,18 @@ ul.list-check li::before {
     .tt-fullHeight{
         height: 560px !important;
     }
+
+    .timeline>li {
+        margin-bottom: 10px;
+    }
+
+    .timeline>li .posted-date .month {
+        color: #333
+    }
+
+    .timeline-heading span {
+        margin-bottom: 10px;
+    }
 }
 
 
