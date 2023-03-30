@@ -949,6 +949,9 @@ Resume Timeline
     float: none;
 }
 
+.timestudy .posted-date{
+    margin-bottom: 14px;
+}
 }
 
 .resume-section {
