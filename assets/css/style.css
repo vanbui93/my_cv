@@ -776,7 +776,6 @@ Resume Timeline
     line-height: 20px;
     font-weight: 700;
     display: block;
-    color: #ffffff;
     top: 0;
     float: left;
     padding: 10px 0;
@@ -833,6 +832,10 @@ Resume Timeline
     position: absolute;
     text-align: center;
     background-color: #52b3d9;
+}
+
+.timeline>li .posted-date .month {
+    color: #fff;
 }
 
 .timeline>li .timeline-panel {
